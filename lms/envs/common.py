@@ -1086,7 +1086,7 @@ FOOTER_OPENEDX_LOGO_IMAGE = "https://files.edx.org/openedx-logos/edx-openedx-log
 
 # This is just a placeholder image.
 # Site operators can customize this with their organization's image.
-FOOTER_ORGANIZATION_IMAGE = "http://www.hig.no/content/download/32181/378711/file/HiG_logo_RGB.png"
+FOOTER_ORGANIZATION_IMAGE = "http://hig.no/design/HiG_v4/images/menu/HiG_logo_RGB.png"
 
 # These are referred to both by the Django asset pipeline
 # AND by the branding footer API, which needs to decide which

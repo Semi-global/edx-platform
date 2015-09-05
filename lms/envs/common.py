@@ -46,13 +46,13 @@ from lms.djangoapps.lms_xblock.mixin import LmsBlockMixin
 
 ################################### FEATURES ###################################
 # The display name of the platform to be used in templates/emails/etc.
-PLATFORM_NAME = "Your Platform Name Here"
+PLATFORM_NAME = "HiG IMT EdX"
 CC_MERCHANT_NAME = PLATFORM_NAME
 # Shows up in the platform footer, eg "(c) COPYRIGHT_YEAR"
 COPYRIGHT_YEAR = "2015"
 
-PLATFORM_FACEBOOK_ACCOUNT = "http://www.facebook.com/YourPlatformFacebookAccount"
-PLATFORM_TWITTER_ACCOUNT = "@YourPlatformTwitterAccount"
+PLATFORM_FACEBOOK_ACCOUNT = "http://www.facebook.com/hig"
+PLATFORM_TWITTER_ACCOUNT = "@praeteritio"
 
 COURSEWARE_ENABLED = True
 ENABLE_JASMINE = False
@@ -1086,7 +1086,7 @@ FOOTER_OPENEDX_LOGO_IMAGE = "https://files.edx.org/openedx-logos/edx-openedx-log
 
 # This is just a placeholder image.
 # Site operators can customize this with their organization's image.
-FOOTER_ORGANIZATION_IMAGE = "images/default-theme/logo.png"
+FOOTER_ORGANIZATION_IMAGE = "http://www.hig.no/content/download/32181/378711/file/HiG_logo_RGB.png"
 
 # These are referred to both by the Django asset pipeline
 # AND by the branding footer API, which needs to decide which
